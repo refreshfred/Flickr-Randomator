@@ -1,0 +1,1 @@
+<? include('phpFlickr-2.3.1/phpFlickr.php');
